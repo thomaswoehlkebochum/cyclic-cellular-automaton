@@ -41,7 +41,7 @@ public class CyclicCellularAutomatonCanvas extends JComponent implements Seriali
                 int state = this.tab.getModel().getCellStatusFor(x, y);
                 Color stateColor = this.tab.getModel().getColorScheme().getColorForState(state);
                 g.setColor(stateColor);
-                g.drawLine(x, y, x, y);
+                g.fillRect(x, y, 1, 1);
             }
         }
     }
