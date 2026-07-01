@@ -1,6 +1,6 @@
 # cyclic-cellular-automaton
 
-![Java CI with Maven](https://github.com/Computer-Kurzweil/cyclic-cellular-automaton/workflows/Java%20CI%20with%20Maven/badge.svg)
+![Java CI with Maven](https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 **Cyclic cellular automaton**
 
@@ -22,12 +22,12 @@ One-dimensional cyclic cellular automata can be interpreted as systems of intera
 ![Later Screen](img/screen2.png)
 
 ## Git Repository
-* [https://github.com/Computer-Kurzweil/cyclic-cellular-automaton](https://github.com/Computer-Kurzweil/cyclic-cellular-automaton)
+* [https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton](https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton)
 
 ## Run the Desktop Application
 
 ```
-git clone https://github.com/Computer-Kurzweil/cyclic-cellular-automaton.git
+git clone https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton.git
 cd cyclic-cellular-automaton
 ./mvnw
 ```

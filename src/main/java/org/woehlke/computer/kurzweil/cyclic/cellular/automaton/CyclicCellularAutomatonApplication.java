@@ -9,7 +9,7 @@ import org.woehlke.computer.kurzweil.cyclic.cellular.automaton.view.CyclicCellul
  * @author Thomas Woehlke
  *
  * @see <a href="https://java.woehlke.org/cyclic-cellular-automaton">Maven Project Page</a>
- * @see <a href="https://github.com/Computer-Kurzweil/cyclic-cellular-automaton">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton">Github Repository</a>
  */
 public class CyclicCellularAutomatonApplication {
 

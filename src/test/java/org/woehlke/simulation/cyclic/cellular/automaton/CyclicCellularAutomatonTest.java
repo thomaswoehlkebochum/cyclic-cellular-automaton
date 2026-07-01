@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  * @author Thomas Woehlke
  *
  * @see <a href="https://java.woehlke.org/cyclic-cellular-automaton">Maven Project Page</a>
- * @see <a href="https://github.com/Computer-Kurzweil/cyclic-cellular-automaton">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton">Github Repository</a>
  *
  * @see CyclicCellularAutomatonApplication
  *
