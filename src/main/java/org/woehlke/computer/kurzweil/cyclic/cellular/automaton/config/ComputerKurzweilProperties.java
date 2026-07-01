@@ -14,12 +14,10 @@ import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
 /**
- * &copy; 2006 - 2008 Thomas Woehlke.
+ * &copy; 2006 - 2026 Thomas Woehlke.
  * @author Thomas Woehlke
  *
- * @see <a href="https://thomas-woehlke.blogspot.com/2016/01/mandelbrot-set-drawn-by-turing-machine.html">Blog Article</a>
- * @see <a href="https://github.com/thomaswoehlkebochum/simulated-evolution">Github Repository</a>
- * @see <a href="https://java.woehlke.org/simulated-evolution/">Maven Project Repository</a>
+ * @see <a href="https://java.woehlke.org/cyclic-cellular-automaton">Maven Project Page</a>
  */
 @Log4j2
 @ToString
@@ -997,6 +995,7 @@ public class ComputerKurzweilProperties implements Serializable {
     }
 
     public static ComputerKurzweilProperties propertiesFactory(String conf, String jarPath){
+        log.info("---------------------------------------------");
         log.info("propertiesFactory");
         log.info("propertiesFactory conf: "+conf);
         log.info("propertiesFactory jar:  "+jarPath);
@@ -1013,6 +1012,7 @@ public class ComputerKurzweilProperties implements Serializable {
             properties = new ComputerKurzweilProperties();
         }
         log.info("propertiesFactory done");
+        log.info("---------------------------------------------");
         return properties;
     }
 

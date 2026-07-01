@@ -8,7 +8,7 @@ import java.awt.*;
 /**
  * Cyclic Cellular Automaton.
  * <p>
- * (C) 2006 - 2022 Thomas Woehlke.
+ * (C) 2006 - 2026 Thomas Woehlke.
  * @see <a href="https://java.woehlke.org/cyclic-cellular-automaton">Maven Project Page</a>
  *
  * @author Thomas Woehlke

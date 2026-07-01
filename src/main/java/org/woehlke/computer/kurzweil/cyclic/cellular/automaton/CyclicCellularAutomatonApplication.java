@@ -5,7 +5,7 @@ import org.woehlke.computer.kurzweil.cyclic.cellular.automaton.view.CyclicCellul
 
 /**
  * Cyclic Cellular Automaton.
- * (C) 2006 - 2022 Thomas Woehlke.
+ * (C) 2006 - 2026 Thomas Woehlke.
  * @author Thomas Woehlke
  *
  * @see <a href="https://java.woehlke.org/cyclic-cellular-automaton">Maven Project Page</a>
