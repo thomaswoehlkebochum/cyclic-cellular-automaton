@@ -24,14 +24,14 @@
     <inceptionYear>2013</inceptionYear>
 
     <scm>
-        <connection>scm:git:git@github.com:Computer-Kurzweil/cyclic-cellular-automaton.git</connection>
-        <developerConnection>scm:git:git@github.com:Computer-Kurzweil/cyclic-cellular-automaton.git</developerConnection>
-        <url>https://github.com/Computer-Kurzweil/cyclic-cellular-automaton/tree/${project.scm.tag}</url>
+        <connection>scm:git:git@github.com:thomaswoehlkebochum/cyclic-cellular-automaton.git</connection>
+        <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/cyclic-cellular-automaton.git</developerConnection>
+        <url>https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton/tree/${project.scm.tag}</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/Computer-Kurzweil/cyclic-cellular-automaton/issues/</url>
+        <url>https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton/issues/</url>
         <system>GitHub</system>
     </issueManagement>
 
