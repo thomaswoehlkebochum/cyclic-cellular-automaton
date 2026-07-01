@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>cyclic-cellular-automaton</artifactId>
-    <version>3.0.6-SNAPSHOT</version>
+    <version>3.0.6</version>
     <packaging>jar</packaging>
 
     <name>Cyclic Cellular Automaton (Demon)</name>
@@ -27,7 +27,7 @@
         <connection>scm:git:git@github.com:thomaswoehlkebochum/cyclic-cellular-automaton.git</connection>
         <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/cyclic-cellular-automaton.git</developerConnection>
         <url>https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton/tree/${project.scm.tag}</url>
-        <tag>HEAD</tag>
+        <tag>cyclic-cellular-automaton-3.0.6</tag>
     </scm>
 
     <issueManagement>
