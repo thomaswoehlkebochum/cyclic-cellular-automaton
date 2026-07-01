@@ -34,7 +34,7 @@
             <item name="Home" href="index.html" />
             <item name="Fork this on GitHub" href="https://github.com/thomaswoehlkebochum/cyclic-cellular-automaton" />
             <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/thomaswoehlkebochum/" />
-            <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlke" />
+            <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlkebochum" />
             <item name="Donate" href="https://www.paypal.me/ThomasWoehlke" />
         </menu>
         <menu name="License" inherit="top">
